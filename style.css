@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Oswald:wght@200;300;400;500;600;700&family=Pacifico&display=swap');
+body {
+    background-color: WHITE;
+    width:100%;
+    padding:0;
+    margin:0;
+}
+/* Navbar */
+.navbar-bg{
+    background-color: white;
+}
+
+.setdribbble{
+    font-family: 'Pacifico', cursive;
+    font-weight: 100;
+}
+
+.setli{
+    opacity:95%;
+    font-weight: 500 ;
+    color: #464545;
+}
+.setli:hover{
+    color: rgb(0, 0, 0);
+}
+
+.setsearch{
+    width: 25px;
+    height: 25px;
+    margin-top:1.1rem;
+}
+
+.setsignin{
+    width:60px;
+    font-size:18px;
+    color: #6E6D7A;
+    text-decoration: none;
+    font-weight: 400;
+    font-family:Helvetica,Arial, sans-serif;
+    line-height: 28px;
+}
+
+.setsignup{
+    height: 40px;
+    width:83px;
+    font-weight: 650;
+    background:#ea4c89;
+    font-size: 15px;
+    font-family:Helvetica,Arial, sans-serif;
+}
+
+.setsignup:hover{
+    background:#f082ac;
+}
+
+/* Block-2 */
+.setpic1{
+    height: 20px;
+}
+.tab{
+    tab-size: 2;
+}
+.setcol{
+    height:1.5rem;
+}
+.setbtn{
+    border:none;
+    background-color:white;
+}
+.setlike{
+    font-size: 13px;
+    margin-right: 0.6rem;
+}
+
+.setblock2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.setpara2{
+    width: 110px;
+}
+.card-text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.setimg3{
+    margin-left:0.6rem;
+    height:19px;
+    margin-right: 5px;
+}
+.setimg2{
+    height:15px;
+}
+.setimg2:hover{
+    color: #ea4c89;
+}
+/* Footer */
+.setdribbble2{
+    font-family: 'Pacifico', cursive;
+    font-weight: 100;
+    color: #ea4c89;
+}
+.setfont{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f7f7f1;
+        
+}
+.setimg{
+   width: 25px;
+   height: 25px;
+   margin-bottom: 0.2rem;
+}
+.setpara{
+    width: 256px;
+    height: 60px;
+    font-weight:100;
+    color: #3d3d4e
+}
+.setball{
+    height: 20px;
+    width: 45px;
+}
+.setinsta{
+    height: 20px;
+    width: 45px;
+}
+.settwitter{
+    height: 25px;
+    width: 45px;
+}
+.setfb{
+    height: 20px;
+    width: 45px;
+}
+.setpin{
+    height: 20px;
+    width: 45px;
+}
+
+.setul-2{
+    list-style: none;
+    color: #161617de
+}
+.getbold{
+    font-weight: bold;
+    color: black;
+    font-size: 15px;
+}
+
+.setmr{
+    margin-right: 10rem;
+}
+
+.setbg{
+    background-color: #f9f7f7f1;
+}
+
+.setp1{
+    text-align: left;
+}
+
+.setp2{
+    text-align: right;
+}
